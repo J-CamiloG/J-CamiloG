@@ -1,16 +1,66 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Juan+Camilo+Campillo;I'm+Software+Engineering)](https://git.io/typing-svg)
 
-<!--
-**J-CamiloG/J-CamiloG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">"Talk is cheap. Show me the code"</h3>
+<h4 align="center">- Linus Torvalds -</h4>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="margin-bottom:200px">
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=jacquelineatae&theme=radical&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelineatae&layout=compact&theme=radical" />
+</div>
+
+
+<br>
+
+## Language and Tools
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Main Stack:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+
+
+#### Studying in this moment:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+
+#### Tools:
+
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+
+<br>
+
+## Academic Background:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo-1536x864.png"/>](https://www.uninter.com/)
+**Software Engineering Undergraduate** \
+[**UNINTER**](https://www.uninter.com/)  • In progress\
+Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
+`Project Management` `Software Development` `Software Security` `Software Quality`
+
+[<img  align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.feoh3-1.fna.fbcdn.net/v/t39.30808-6/334324413_861748788236086_3557241671772715257_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFxVAOE1cIdfDeFaR1mTKbggM8PfSZfiAGAzw99Jl-IAQjNRSkdczNxsygK9wzLqh86bLYrwKlIaMTDN4Gab1yl&_nc_ohc=jdwtdV8OZLEAX_reA10&_nc_ht=scontent.feoh3-1.fna&oh=00_AfCXzT490tQ1sE3M8jtWx3SDraExneuYvc_qSZXFdr6PlA&oe=65B58786"/>](https://platzi.com/new-home/)
+**Full Stack Developer** \
+[**Platzi**](https://platzi.com/new-home/) • In progress \
+Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
+`Bulma` `MongoDB` `ElectronJS`
+
+<br>
+
+## Contact me:
+<div>
+<a href="https://www.instagram.com/y_m_k.02/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto: contatojacquelineatae@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jacquelineatae/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+------
