@@ -45,7 +45,7 @@ Passionate about web development with a 4-year educational background, I hail fr
 Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
 `Project Management` `Software Development` `Software Security` `Software Quality`
 
-[<img  align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.feoh3-1.fna.fbcdn.net/v/t39.30808-6/334324413_861748788236086_3557241671772715257_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFxVAOE1cIdfDeFaR1mTKbggM8PfSZfiAGAzw99Jl-IAQjNRSkdczNxsygK9wzLqh86bLYrwKlIaMTDN4Gab1yl&_nc_ohc=jdwtdV8OZLEAX_reA10&_nc_ht=scontent.feoh3-1.fna&oh=00_AfCXzT490tQ1sE3M8jtWx3SDraExneuYvc_qSZXFdr6PlA&oe=65B58786"/>](https://platzi.com/new-home/)
+[<img  align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rwU607PYF9jK9QL2I85SdfCLVZJGGsxWukuF_LxD0PepnqEIrFVg3W85FOVPDmWdMN1SxyJ7Xi8=s900-c-k-c0x00ffffff-no-rj"/>](https://platzi.com/new-home/)
 **Full Stack Developer** \
 [**PLATZI**](https://platzi.com/new-home/) 
 Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
