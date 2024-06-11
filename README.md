@@ -1,18 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Juan+Camilo+Campillo;I'm+Software+Engineering)](https://git.io/typing-svg)
 
 # 💫 About Me:
-<P>My name is <b>Juan Camilo</b>. I started programming when I was 20 years old. Currently, <span> I'm
-            developing web projects for
-            Expresia.</span> <br>
-          <br>
-          <span>One of my great successes includes being chosen as a mentor at Riwi</span>, a company dedicated to
-          providing opportunities and
-          tools for young people to transform their lives, especially in Colombia, where the shortage
-          of developers and high turnover in technology talent are significant challenges.
-          <br>
-          Additionally, I've had the opportunity to enhance the <span>accessibility and competitiveness of various
-            companies' websites</span> ,
-          ensuring their access and visibility on the internet, as a separate project from my work at Riwi.
+<P>In Riwi.io, as a Full-stack Developer, my role revolves around implementing modular architectures and efficiently maintaining code, which are essential for robust and scalable products. With a deep understanding of React.js and TypeScript, I collaborate within teams to design and develop high-performance applications that enhance user experience and product functionality. 🚀💻
+
+My journey includes contributing to projects at Expresia, where I optimized user interfaces and integrated advanced features using HTML, CSS, JavaScript, and PHP. My studies at Team International and Platzi, coupled with my specialization in web and application development, reflect my commitment to quality and efficiency, values that guide my professional approach. 💡✨👨‍💻
           🚀✨
 </P>
 
