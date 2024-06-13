@@ -1,10 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Juan+Camilo+Campillo;I'm+Software+Engineering)](https://git.io/typing-svg)
 
 # 💫 About Me:
-<P>In Riwi.io, as a Full-stack Developer, my role revolves around implementing modular architectures and efficiently maintaining code, which are essential for robust and scalable products. With a deep understanding of React.js and TypeScript, I collaborate within teams to design and develop high-performance applications that enhance user experience and product functionality. 🚀💻
-
-My journey includes contributing to projects at Expresia, where I optimized user interfaces and integrated advanced features using HTML, CSS, JavaScript, and PHP. My studies at Team International and Platzi, coupled with my specialization in web and application development, reflect my commitment to quality and efficiency, values that guide my professional approach. 💡✨👨‍💻
-          🚀✨
+<P>I am a web developer with 1 years of experience in both front-end and back-end development, including database administration and website design. I have good analytical skills that allow me to have detailed guidance and be autonomous, making me a team player for my team.💡✨👨‍💻
+🚀✨
 </P>
 
 
