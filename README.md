@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Juan+Camilo+Campillo;I'm+Software+Engineering)](https://git.io/typing-svg)
 
 # 💫 About Me:
-<P>I am a web developer with + 1 years of experience in both front-end and back-end development, including database administration and website design. I have good analytical skills that allow me to have detailed guidance and be autonomous, making me a team player for my team.💡✨👨‍💻
-🚀✨
+I am a web developer with over 2 years of experience in both front-end and back-end development 💻, including database administration 📊, data migration 📦, and website design 🎨. I have good analytical skills that allow me to be detail-oriented 🔍 and self-reliant 🤔, making me an effective team player 🤝.
 </P>
 
 
