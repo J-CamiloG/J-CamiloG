@@ -1,6 +1,6 @@
 # 👨🏽‍💻 About Me:
 
-- 👨🏽‍💻  I’m currently AI Team Lead @ Global AI Hub
+- 👨🏽‍💻 I’m currently Software Developer in @Disocom  
 - 🌱 I’m currently developing .NET Core projects and Data Science projects
 - 🤔 My interest lies in back-end web development, Data Science, Machine Learning, Deep Learning and Flutter
 - 💬 Ask me about anything from [contact@fethitekyaygil.com](mailto:contact@fethitekyaygil.com), I love to answer!
