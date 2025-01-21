@@ -36,14 +36,7 @@
 
 
 
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=J-CamiloG&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-<div>
+<div align="center">
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=J-CamiloG&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
   </p>
