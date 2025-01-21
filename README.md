@@ -1,4 +1,4 @@
-**About Me!**
+# 👨🏽‍💻 About Me:
 
 - 👨🏽‍💻  I’m currently AI Team Lead @ Global AI Hub
 - 🌱 I’m currently developing .NET Core projects and Data Science projects
@@ -8,9 +8,6 @@
 
 
 # 💻 Tech Stack:
-
-
-#### Main Stack:
 
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=next"/>](https://nextjs.org/)
