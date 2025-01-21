@@ -1,9 +1,8 @@
 # 👨🏽‍💻 About Me:
 
 - 👨🏽‍💻 I’m currently Software Developer in @Disocom  
-- 🌱 I’m currently developing .NET Core projects and Data Science projects
-- 🤔 My interest lies in back-end web development, Data Science, Machine Learning, Deep Learning and Flutter
-- 💬 Ask me about anything from [contact@fethitekyaygil.com](mailto:contact@fethitekyaygil.com), I love to answer!
+- 🌱 I'm currently developing PHP projects using the Yii framework and MongoDB as the database.
+- 💬 Ask me about anything from [jc6381878@gmail.com](jc6381878@gmail.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://www.fethitekyaygil.com)
 
 
