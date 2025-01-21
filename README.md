@@ -1,8 +1,12 @@
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
-# 💫 About Me:
-I am a web developer with over +2 years of experience in both front-end and back-end development 💻, including database administration 📊, data migration 📦, and website design 🎨. I have good analytical skills that allow me to be detail-oriented 🔍 and self-reliant 🤔, making me an effective team player 🤝.
-</P>
+**About Me!**
+
+- 👨🏽‍💻  I’m currently AI Team Lead @ Global AI Hub
+- 🌱 I’m currently developing .NET Core projects and Data Science projects
+- 🤔 My interest lies in back-end web development, Data Science, Machine Learning, Deep Learning and Flutter
+- 💬 Ask me about anything from [contact@fethitekyaygil.com](mailto:contact@fethitekyaygil.com), I love to answer!
+- 🌐 You can see my personal website through [here](https://www.fethitekyaygil.com)
 
 
 # 💻 Tech Stack:
