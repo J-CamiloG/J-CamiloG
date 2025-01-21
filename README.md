@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 I’m currently Software Developer in @Disocom  
 - 🌱 I'm currently developing PHP projects using the Yii framework and MongoDB as the database.
-- 💬 Ask me about anything from jc6381878@gmail.com**, I love to answer!
+- 💬 Ask me about anything from jc6381878@gmail.com, I love to answer!
 - 🌐 You can see my personal website through [here](https://www.fethitekyaygil.com)
 
 
