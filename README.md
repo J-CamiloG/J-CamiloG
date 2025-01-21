@@ -50,7 +50,7 @@
   <summary>GitHub Trophies 🏆</summary>
   <br>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ujjwalsharma01&theme=darkhub&column=7&bgColor=000000&noFrame=true&row=1&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=J-CamiloG&theme=darkhub&column=7&bgColor=000000&noFrame=true&row=1&margin-w=15" alt="GitHub Trophies" />
   </p>
 </details>
 
