@@ -37,10 +37,3 @@
 
 
 <br>
-
-## Contact me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-camilo-campillo-g-17a126232/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/codeartjc) 
-
-------
-[![](https://visitcount.itsvg.in/api?id=J-CamiloG&icon=0&color=7)](https://visitcount.itsvg.in)
